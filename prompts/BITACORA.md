@@ -2,7 +2,7 @@
 
 Laboratorio 06: Fundamentos de Ingenieria de Prompts.
 
-Herramienta de IA usada: (escribe aqui cual usaste)
+Herramienta de IA usada: (Gemini)
 
 ## Ejercicio 2: Tokens y ventana de contexto
 
@@ -12,7 +12,7 @@ Herramienta de IA usada: (escribe aqui cual usaste)
 | The students program in Java.      | 29         | 6      |
 | desafortunadamente                 | 18         | 4      |
 
-n los pasos 4 y 5, la herramienta respondió correctamente gracias al contexto previo del chat. Al abrir una nueva ventana, la conversación se reinicia sin historial, por lo que no reconoce el proyecto y solicita información adicional.java --version
+En los pasos 4 y 5, la herramienta respondió correctamente gracias al contexto previo del chat. Al abrir una nueva ventana, la conversación se reinicia sin historial, por lo que no reconoce el proyecto y solicita información adicional.
 
 ## Ejercicio 3: Temperatura
 
